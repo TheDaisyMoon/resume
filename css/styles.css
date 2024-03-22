@@ -3,7 +3,7 @@ body {
   margin: 0;
   background-color: #f8f4ff;
   font-family: "Josefin Sans", sans-serif;
-  font-size: 1.1em;
+  font-size: 18px;
 }
 
 a, a:hover, a:focus {
@@ -35,7 +35,7 @@ h3 {
 
 .subtitle {
   font-size: 1.5rem;
-  font-weight: lighter;
+  font-weight: 300;
   margin-top: -0.5em;
 }
 
@@ -53,25 +53,25 @@ ul li {
 }
 
 .year {
-  font-weight: lighter;
+  font-weight: 300;
   font-size: 1.5em;
 }
 
 .company {
-  font-weight: lighter;
+  font-weight: 300;
   font-size: 1.2em;
   margin-top: -0.5em;
 }
 
 .volunteering{
-  font-weight: lighter;
+  font-weight: 300;
 }
 
 .convention{
-  font-weight: lighter;
+  font-weight: 300;
 }
 
 .footer{
   font-size: 0.8em;
-  font-weight: light;
+  font-weight: 300;
 }
