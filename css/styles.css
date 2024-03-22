@@ -5,23 +5,30 @@ body {
 }
 
 a, a:hover, a:focus {
-  color: #c94143;
+  color: #FF006F;
   text-decoration: none;
-  border-bottom: 1px solid;
+  border-bottom: 1px dotted;
+  font-weight: bold;
 }
 
 h1 {
   font-weight: 700;
   font-size: 3.5em;
+  color:#190D30;
+  text-shadow: 1px 1px 1px #FF006F;
 }
 
 h2 {
   font-size: 2.2em;
   font-weight: 700;
+  color:#190D30;
+  text-shadow: 1px 1px 0.5px #FF006F;
 }
 
 h3 {
   font-size: 1.5em;
+  color:#190D30;
+  text-shadow: 0.5px 0.5px 0.5px #FF006F;
 }
 
 .subtitle {
